@@ -1480,11 +1480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumantkumar/Desktop/SeleniumNUnit/SeleniumNUnit.csproj",
+      "projectUniqueName": "/Users/sumantkumar/Desktop/test/SeleniumNUnit/SeleniumNUnit.csproj",
       "projectName": "SeleniumNUnit",
-      "projectPath": "/Users/sumantkumar/Desktop/SeleniumNUnit/SeleniumNUnit.csproj",
+      "projectPath": "/Users/sumantkumar/Desktop/test/SeleniumNUnit/SeleniumNUnit.csproj",
       "packagesPath": "/Users/sumantkumar/.nuget/packages/",
-      "outputPath": "/Users/sumantkumar/Desktop/SeleniumNUnit/obj/",
+      "outputPath": "/Users/sumantkumar/Desktop/test/SeleniumNUnit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sumantkumar/.nuget/NuGet/NuGet.Config"

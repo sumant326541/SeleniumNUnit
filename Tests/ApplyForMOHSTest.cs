@@ -18,7 +18,7 @@ namespace SeleniumNUnit.Tests
             homePage.NavigateToMOHSApplication();
             mohsApplicationPage.FillMOHSForm();
             string SuccessMessage = mohsApplicationPage.GetSuccessMessage();
-            Assert.AreEqual("Thank you! Your response has been submitted.", SuccessMessage);
+            Assert.That(SuccessMessage, Is.EqualTo("Thank you! Your response has been submitted."));
         }
     }
 }
