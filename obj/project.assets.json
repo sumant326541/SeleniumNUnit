@@ -1475,19 +1475,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/sumantkumar/.nuget/packages/": {}
+    "/Users/airasia/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumantkumar/Desktop/test/SeleniumNUnit/SeleniumNUnit.csproj",
+      "projectUniqueName": "/Users/airasia/Desktop/Automation/SeleniumNUnit/SeleniumNUnit.csproj",
       "projectName": "SeleniumNUnit",
-      "projectPath": "/Users/sumantkumar/Desktop/test/SeleniumNUnit/SeleniumNUnit.csproj",
-      "packagesPath": "/Users/sumantkumar/.nuget/packages/",
-      "outputPath": "/Users/sumantkumar/Desktop/test/SeleniumNUnit/obj/",
+      "projectPath": "/Users/airasia/Desktop/Automation/SeleniumNUnit/SeleniumNUnit.csproj",
+      "packagesPath": "/Users/airasia/.nuget/packages/",
+      "outputPath": "/Users/airasia/Desktop/Automation/SeleniumNUnit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sumantkumar/.nuget/NuGet/NuGet.Config"
+        "/Users/airasia/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
